@@ -34,4 +34,4 @@ Site vitrine développé en HTML et CSS pour une photographe professionnelle. Ce
 ## 📫 Me contacter
 📧 ibrahimacisse.dev@gmail.com
 
-🔗 [Mon profil GitHub](https://github.com/ibrahimaCisse10)   
+🔗 [Mon profil GitHub](https://github.com/ibrahimacissedev)   
