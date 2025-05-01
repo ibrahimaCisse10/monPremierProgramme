@@ -7,7 +7,7 @@ Site vitrine développé en HTML et CSS pour une photographe professionnelle. Ce
 
 ## 🌐 Aperçu
 
-🔗 [Voir le site en ligne](https://ibrahimaCisse10.github.io/monPremierProgramme/)
+🔗 [Voir le site en ligne](https://ibrahimacissedev.github.io/monPremierProgramme/)
 
 ![aperçu du site](images/capture.png)  
 
