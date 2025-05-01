@@ -31,9 +31,7 @@ Site vitrine développé en HTML et CSS pour une photographe professionnelle. Ce
    ```bash
    git clone https://github.com/ibrahimaCisse10/monPremierProgramme.git
 
-
-
-📫 Me contacter
+## 📫 Me contacter
 📧 ibrahimacisse.dev@gmail.com
 
 🔗 [Mon profil GitHub](https://github.com/ibrahimaCisse10)   
