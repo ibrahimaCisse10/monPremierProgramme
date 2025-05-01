@@ -4,9 +4,13 @@
 
 Site vitrine développé en HTML et CSS pour une photographe professionnelle. Ce projet met en lumière son univers artistique, détaille ses services, et valorise son travail à travers une galerie d’images moderne, soignée et responsive.
 
+
 ## 🌐 Aperçu
 
+🔗 [Voir le site en ligne](https://ibrahimaCisse10.github.io/monPremierProgramme/)
+
 ![aperçu du site](images/capture.png)  
+
 
 ## 🛠️ Technologies utilisées
 
